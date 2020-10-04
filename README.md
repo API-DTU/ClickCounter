@@ -26,7 +26,7 @@ For HACTOBERFEST (Beginners) : Will count the number of times a button is clicke
   
 
 
-1. Fork the repo
+1. Star, Fork the repo
 2. add code to the forked version
 3. commit the code
 4. make a pull request
