@@ -1,5 +1,5 @@
 # ClickCounter
-Will count the number of times a button is clicked.
+For HACTOBERFEST (Beginners) : Will count the number of times a button is clicked.
 - Task 1:
   - Add TextView and Button 
   - Display the number of times a button has been clicked
