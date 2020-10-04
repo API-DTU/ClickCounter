@@ -20,9 +20,9 @@ For HACTOBERFEST (Beginners) : Will count the number of times a button is clicke
   - Update the new button count in firebase
   
  - Task 4
-  - Add a offline tic-tac toe game in a new activity
-  - Add layout grid
-  - Add functionalities Refer: https://github.com/Khali851999/TicTacToe
+    - Add a offline tic-tac toe game in a new activity
+    - Add layout grid
+    - Add functionalities Refer: https://github.com/Khali851999/TicTacToe
   
 
 
