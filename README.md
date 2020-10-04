@@ -4,6 +4,11 @@ Will count the number of times a button is clicked.
   - Add TextView and Button 
   - Display the number of times a button has been clicked
   - Add other improvements like borders, animations
+  <br>
+  Task 1 completed succcessfully !
+  <br><br>
+  <img src="home.png" width="200" >
+  
 - Task 2
   - Every time button is clicked rotate an image
   - Change the color of button on every button click
