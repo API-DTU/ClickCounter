@@ -14,6 +14,10 @@ class MainActivity : AppCompatActivity() {
         tap.setOnClickListener {
             count++
             counter.setText(count.toString())
+            //Change the color of button on every button click
+            val rnd = Random()
+            val color: Int = Color.argb(255, rnd.nextInt(256), rnd.nextInt(256), rnd.nextInt(256))
+            tap.setBackgroundColor(color)
         }
 
         reset.setOnClickListener {
