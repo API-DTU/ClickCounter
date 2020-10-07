@@ -7,7 +7,7 @@ For HACTOBERFEST (Beginners) : Will count the number of times a button is clicke
   <br>
   Task 1 completed succcessfully !
   <br><br>
-  <img src="home.png" width="200" >
+  <img src="Flutter_app/Home.png" width=200 >
   
 - Task 2
   - Every time button is clicked rotate an image
