@@ -1,4 +1,4 @@
-# clickcounter
+# Clickcounter
 
 A new Flutter application.
 
