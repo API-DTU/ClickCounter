@@ -13,6 +13,11 @@ For HACTOBERFEST (Beginners) : Will count the number of times a button is clicke
   - Every time button is clicked rotate an image
   - Change the color of button on every button click
   - Try same eith other animations and other images(10 atleast)
+   <br>
+  Task 2 completed succcessfully !
+  <br><br>
+  <img src="Flutter2/Home.png" width=200 >
+  
   
 - Task 3
   - Connect to firebase
